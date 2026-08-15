@@ -1,4 +1,4 @@
-# Hi, I'm Ashima Ridzuan 👋
+# Hi, I'm Ashima👋
 
 UI/UX Designer · Front-End Developer · AI Agent Developer
 
