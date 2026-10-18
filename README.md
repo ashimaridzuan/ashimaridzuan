@@ -45,6 +45,7 @@ My background is in technical support, knowledge management, and case management
 | ☁️ | [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/4ea0a15d-0f93-43a8-85f4-fe59c568ef4f) | Amazon Web Services |
 | 🤖 | [Certified Partner Specialist — Gemini Enterprise Agent Development](https://www.credly.com/earner/earned/badge/2ba52c4c-1778-4a25-b2f2-4835a487d67e) | Google |
 | 🎓 | [Front End Web Developer Nanodegree](https://www.udacity.com/certificate/e/347aa4e2-f078-11f0-9171-6b64bd950844) | Udacity |
+| 🤝 | [Claude Certified Associate — Foundations](https://www.credly.com/earner/earned/badge/f490430e-d5f0-4885-872a-436141ce0027) | Anthropic |
 
 ---
 
