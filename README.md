@@ -1,7 +1,6 @@
 # Hi, I'm Ashima👋 はじめまして！
 
 I create clear, accessible, and friendly digital experiences.
-**Fronted Developer | ServiceNow Developer
 
 
 ## Tech stack / 技術スタック
