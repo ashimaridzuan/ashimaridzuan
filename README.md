@@ -1,9 +1,6 @@
 # Hi, I'm Ashima. はじめまして！🍀
 
-I create clear, accessible, and friendly digital experiences.
-
-
-IT Operations Analyst transitioning into Cloud Engineering and DevOps — with web development experience along the way.
+IT Operations Analyst transitioning into Cloud Engineering and DevOps with web development experience along the way.
 
 My background is in technical support, knowledge management, and case management. I'm now channeling that operations experience into building cloud-native applications and automation workflows on AWS. Currently pursuing AWS Solutions Architect Associate.
 
@@ -71,9 +68,6 @@ My background is in technical support, knowledge management, and case management
 2026 → Case Management
 Now  → Cloud Engineering & DevOps (Learning & Building)
 ```
-
----
-- React component architecture
 
 
 
